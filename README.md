@@ -65,9 +65,9 @@ This project implements a LightGBM-based binary classification model for the IEE
 ### 3.3 Validation Checks: All Passed
 - Missing values check
 - Duplicate removal
-✅ Cross-fold consistency
-✅ No data leakage
-✅ Strong generalization
+- Cross-fold consistency
+- No data leakage
+- Strong generalization
 
 **Project Date**: 2026-03-03
 **Repository**: ianmolbisht/ieeeML_arena
