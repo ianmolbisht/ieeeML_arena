@@ -71,3 +71,70 @@ This project implements a LightGBM-based binary classification model for the IEE
 
 **Project Date**: 2026-03-03
 **Repository**: ianmolbisht/ieeeML_arena
+
+## Project Setup Guide
+
+### 1️ Clone the Repository
+
+```bash
+git clone https://github.com/ianmolbisht/ieeeML_arena/blob/main/code.ipynb
+cd ieeeML_arena
+```
+
+---
+
+### 2️ Create Virtual Environment (Recommended)
+
+#### Windows
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+
+#### Mac/Linux
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
+---
+
+###  Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+###  Run the Jupyter Notebook
+
+#### Option 1: Using Jupyter Notebook
+```bash
+jupyter notebook
+```
+
+#### Option 2: Using Jupyter Lab
+```bash
+jupyter lab
+```
+
+Then open the `.ipynb` file from the browser interface.
+
+---
+
+###  (If Jupyter Not Installed)
+
+```bash
+pip install notebook
+```
+
+or
+
+```bash
+pip install jupyterlab
+```
+
+---
+
+All set!
