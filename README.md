@@ -12,8 +12,8 @@ This project implements a LightGBM-based binary classification model for the IEE
 - Target: Binary classification (Class: 0 or 1)
 
 ### 1.2 Data Quality Assessment
-✅ Missing Values: 0 in both train and test
-✅ Duplicate Records: 738 removed, Final size: 43,038 samples
+ - Missing Values: 0 in both train and test
+ - Duplicate Records: 738 removed, Final size: 43,038 samples
 
 ### 1.3 Class Distribution
 - Class 0: 26,465 (60.46%)
@@ -63,8 +63,8 @@ This project implements a LightGBM-based binary classification model for the IEE
 - Total Errors: 512 (1.19%)
 
 ### 3.3 Validation Checks: All Passed
-✅ Missing values check
-✅ Duplicate removal
+- Missing values check
+- Duplicate removal
 ✅ Cross-fold consistency
 ✅ No data leakage
 ✅ Strong generalization
